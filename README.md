@@ -1,59 +1,56 @@
-# OwnMyStory — Executive Career Storytelling Skill
+# OwnMyStory — Executive Career Storytelling
 
-An AI-powered career coaching skill that guides professionals through leadership discovery, narrative synthesis, and STAR story generation for executive contexts.
+A personal AI coach that helps you discover and craft your executive career story, prepare for interviews, and build your leadership narrative.
 
-## Overview
+---
 
-OwnMyStory is an AI agent skill designed to help executives craft compelling career narratives and behavioral stories. It guides users through a structured coaching conversation to discover their leadership identity and produce polished, executive-ready stories for:
+## What Does It Do?
 
-- Networking and LinkedIn bios
-- Board presentations and governance roles
-- Promotion cases and career transitions
-- Behavioral interviews at the executive level
-- Stakeholder addresses and conference talks
+OwnMyStory helps you create:
 
-## What This Skill Produces
+- **Your Executive Narrative (North Star)** — A 3-part story covering who you are, how you lead, and what makes you unique
+- **STAR Stories** — Ready-to-use behavioral interview stories for senior roles, board positions, or promotions
+- **Inspirational Stories** — Compelling narratives for talks, networking, and stakeholder presentations
 
-| Output | Description | Use Case |
-|---|---|---|
-| **Executive Narrative (North Star)** | 3-part leadership identity: Strategic Motivation, Leadership Pillar, Value Proposition | Foundation for all storytelling — networking bios, LinkedIn, elevator pitches |
-| **Executive STAR Stories** | Situation → Task → Action → Result stories aligned to career leverage scenarios | Board presentations, promotion cases, role transitions, behavioral interviews |
-| **Inspirational Story** | 3-phase narrative: Hook → Journey → Vision | Stakeholder influence, team addresses, conference talks, networking |
+---
 
-## Workflow
+## How to Use This Skill
 
-```
-Phase 1: DYNAMIC DISCOVERY (context gathering)
-   Fixed opener → adaptive follow-ups → fixed closer
-   + Optional: resume text, brain dump, prior narrative
-          │
-          ▼
-Phase 2: EXECUTIVE NARRATIVE (intermediate)
-   AI synthesizes → North Star (3 pillars)
-   User approves or refines
-          │
-     ┌────┴─────┐
-     ▼          ▼
-Phase 3      Phase 4
-STAR Stories Inspirational Story
-(output)     (output)
-```
+**Step 1:** Copy the message below and paste it into any AI chat (ChatGPT, Claude, or Gemini):
 
-The user may choose Phase 3, Phase 4, or both, and can iterate on any phase.
+---
 
-## Files
+> Load the OwnMyStory skill for me from https://github.com/mikedw/storytelling-skill
 
-- `SKILL.md` — Full skill specification and workflow
-- `references/prompts.md` — AI prompt templates for narrative and story generation
-- `references/output_formats.md` — File output templates for exports
+---
 
-## Key Features
+**Step 2:** The AI will load the skill and guide you through a conversation about your career.
 
-1. **Adaptive Discovery Conversation** — NOT fixed questions, but targeted follow-ups based on the user's responses
-2. **Three-Pillar Synthesis** — Strategic Motivation, Leadership Pillar, Value Proposition
-3. **STAR Story Generation** — For board opportunities, new roles, and promotion cases
-4. **Inspirational Story Builder** — Hook → Journey → Vision structure
+**Step 3:** Answer a few friendly questions about your leadership experience and career goals.
 
-## Keywords
+**Step 4:** The AI will help you build your personal North Star narrative, create STAR stories, and refine your story until it feels right.
 
-executive narrative, career story, STAR stories, behavioral interview, leadership discovery, north star, value proposition, board preparation, promotion case, role transition, career storytelling, executive coach, inspirational story
+---
+
+## Tips for Best Results
+
+- **Be honest and specific** — Your stories are only as good as what you share
+- **Don't overthink it** — The AI will help shape your thoughts into a compelling story
+- **Ask for revisions** — If something doesn't feel right, say so
+- **Have your resume handy** — You can share it to get better results
+- **Take your time** — You can come back and refine your story anytime
+
+---
+
+## Need Help?
+
+If you run into any issues, try:
+
+- Making sure you're signed in to your account
+- Checking that you have a paid subscription (some skills require Plus/Premium)
+- Trying a different browser or refreshing the page
+- Asking the support team for your platform
+
+---
+
+*OwnMyStory — Because the best leaders tell the best stories.*

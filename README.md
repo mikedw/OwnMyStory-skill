@@ -20,7 +20,7 @@ OwnMyStory helps you create:
 
 ---
 
-> Load the OwnMyStory skill for me from https://github.com/mikedw/storytelling-skill
+> Load the OwnMyStory skill for me from https://github.com/mikedw/OwnMyStory-skill
 
 ---
 

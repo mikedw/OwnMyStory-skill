@@ -111,3 +111,43 @@ Templates for exporting skill outputs as markdown files.
 ## Phase Three — The Vision
 [vision content]
 ```
+
+---
+
+## Story Bank
+
+**Filename**: `story_bank.md`
+
+```markdown
+# Story Bank — [User Name]
+
+**Updated**: [date]
+
+## Executive Narrative (North Star)
+- **Strategic Motivation:** [strategic_motivation]
+- **Leadership Pillar:** [leadership_pillar]
+- **Value Proposition:** [value_proposition]
+
+---
+
+## Stories
+
+### [id] — "[Title]" ✅ ready | 📝 draft
+- **Competency:** [competency] | **Category:** [category] | **Tags:** #[tag1] #[tag2]
+- **Leverage:** [board_opportunity / new_role / promotion]
+- **Metrics:** [confirmed | placeholder]
+- **Situation:** [situation]
+- **Task:** [task]
+- **Action:** [action]
+- **Result:** [result]
+- **Reflection:** "[reflection]"
+- **Executive Insight:** "[executive_insight]"
+- **Formats:** interview_answer ✅ · networking_intro ⬜ · linkedin_post ⬜
+- **Versions:** v[N] (current), ... — [dates]
+- **Updated:** [date]
+
+---
+
+## Coverage Gaps
+- [Competency]: [0–1] stories — suggested next build
+```

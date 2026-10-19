@@ -1,16 +1,19 @@
-# OwnMyStory — Executive Career Storytelling
+# OwnMyStory — Executive Career Storytelling Harness (v2)
 
-A personal AI coach that helps you discover and craft your executive career story, prepare for interviews, and build your leadership narrative.
+An agentic AI storytelling coach that helps you discover, bank, stress-test, and deploy your signature career stories for interviews, networking, and executive leadership.
 
 ---
 
 ## What Does It Do?
 
-OwnMyStory helps you create:
+OwnMyStory guides you through an interactive coaching loop—acting as your **mirror and coach**, not your ghostwriter:
 
-- **Your Executive Narrative (North Star)** — A 3-part story covering who you are, how you lead, and what makes you unique
-- **STAR Stories** — Ready-to-use behavioral interview stories for senior roles, board positions, or promotions
-- **Inspirational Stories** — Compelling narratives for talks, networking, and stakeholder presentations
+- **Story Bank (Memory)** — Captures, tags, and versions your signature stories over time so you never start from scratch
+- **Dynamic Discovery & Quick Capture** — Start with a 10-minute adaptive interview or drop a messy 60-second brain dump to create a story stub
+- **Your Executive Narrative (North Star)** — A 3-part leadership identity covering Strategic Motivation, Leadership Pillar, and Value Proposition
+- **STAR Stories + Red-Team Interrogation Loop** — Generates behavioral stories for senior roles, promotions, or board seats, then switches into a **skeptical executive interviewer** to score and stress-test weak spots before you walk into the room
+- **Inspirational Stories** — Compelling 3-phase narratives (Hook → Journey → Vision) for talks, stakeholder influence, and team addresses
+- **Multi-Format Deploy** — Renders any banked story into a **2-minute spoken interview answer**, a **30-second networking intro**, or a **LinkedIn post**
 
 ---
 
@@ -24,21 +27,31 @@ OwnMyStory helps you create:
 
 ---
 
-**Step 2:** The AI will load the skill and guide you through a conversation about your career.
+**Step 2:** Choose **Full Discovery** (3–5 adaptive questions) or **Quick Capture** (a 60-second brain dump of a moment worth keeping).
 
-**Step 3:** Answer a few friendly questions about your leadership experience and career goals.
+**Step 3:** Build your **North Star narrative** and generate your **STAR or Inspirational stories**.
 
-**Step 4:** The AI will help you build your personal North Star narrative, create STAR stories, and refine your story until it feels right.
+**Step 4:** Let the **Red-Team Loop** challenge vague "we" statements and missing metrics until your story is unmistakable—then **bank it** or **deploy it** for your next interview, intro, or post.
+
+---
+
+## Handy Commands Anytime
+
+Once the skill is loaded, you can use these shortcuts at any point in the conversation:
+
+- `bank list` — Show all stories and drafts in your Story Bank
+- `bank gaps` — See which leadership competencies need a story
+- `bank refine [id]` — Run an existing story through the Red-Team loop
+- `bank deploy [id] [interview_answer | networking_intro | linkedin_post]` — Render a story for a specific channel
 
 ---
 
 ## Tips for Best Results
 
-- **Be honest and specific** — Your stories are only as good as what you share
-- **Don't overthink it** — The AI will help shape your thoughts into a compelling story
-- **Ask for revisions** — If something doesn't feel right, say so
-- **Have your resume handy** — You can share it to get better results
-- **Take your time** — You can come back and refine your story anytime
+- **Use AI as your mirror, not your mouth** — Bring your real, lived moments; let the AI interview you to pull out the details you didn't know mattered
+- **Start with the ugly draft** — Don't polish before you share; the magic is in the iteration loop
+- **Lean into the Red-Team pushback** — When the coach asks what *you* specifically did or demands a real metric, that's what makes your story stand out
+- **Export your Story Bank** — Ask the AI to export `story_bank.md` at the end of a session so you can bring it back next time
 
 ---
 
@@ -46,10 +59,9 @@ OwnMyStory helps you create:
 
 If you run into any issues, try:
 
-- Making sure you're signed in to your account
-- Checking that you have a paid subscription (some skills require Plus/Premium)
-- Trying a different browser or refreshing the page
-- Asking the support team for your platform
+- Making sure your AI chat tool has web browsing enabled so it can read the GitHub link (or paste `SKILL.md` directly into the chat)
+- Checking that you're signed in to your account
+- Trying a fresh chat session if the context gets long
 
 ---
 
